@@ -11844,26 +11844,5 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  background-color: #222222;
-  color: #EEEEEE;
-}
-
-button {
-  background-color: #0000FF;
-  border-style: none;
-  border-radius: 5%;
-}
-
-@media screen and (max-width: 600px) {
-  p {
-    background-color: #2222FF;
-  }
-}
-@media screen and (orientation: landscape) {
-  p {
-    background-color: #FF22FF;
-  }
-}
 
 /*# sourceMappingURL=style.css.map */
